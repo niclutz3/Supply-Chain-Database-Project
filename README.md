@@ -7,7 +7,7 @@ MIST 4610
 ## Team Members:
 1.Alt, Jared [@jaralt](https://github.com/jaralt/Mist4610Group8)
 
-2.Cheetha Rajesh, Sai [@saicheetha](https://github.com/saicheetha/)
+2.Cheetha Rajesh, Sai [@saicheetha](https://github.com/saicheetha/MIST4610)
 
 3.Gregg, Stephen [@SGREGG-4](https://github.com/SGREGG-4/Group-Project-8)
 
@@ -120,3 +120,7 @@ Useful when trying to see where each product came from and potentially contactin
 ## Database information:
 
 ![image](https://github.com/user-attachments/assets/92325abf-6f99-456c-9ef3-75c27d037801)
+
+(Queries 6,7,8, and 9 are simple queries. That's why there are no x's.)
+
+
